@@ -22,7 +22,7 @@
     <color name="background_social_updates">#ffeeeeee</color>
 
     <!-- TODO: remove these colors once we delete the group code (b/16522929) -->
-    <color name="action_bar_background">#0288d1</color>
+    <color name="action_bar_background">#2A56C6</color>
     <color name="action_bar_background_highlight">#cecece</color>
     <color name="action_bar_button_text_color">#FFFFFF</color>
 
@@ -33,8 +33,8 @@
     <!-- Color of the status bar above the contextual selection bar. -->
     <color name="contextual_selection_bar_status_bar_color">#424242</color>
 
-    <color name="primary_color_dark">#0277bd</color>
-    <color name="primary_color">#0288d1</color>
+    <color name="primary_color_dark">#1C3AA9</color>
+    <color name="primary_color">#2A56C6</color>
 
     <!-- Color of the selected tab underline -->
     <color name="contacts_accent_color">#FFFFFF</color>
